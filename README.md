@@ -1,23 +1,30 @@
-# 🎮 Escape Room Inteligente
+🐍 Snake Quiz - Jogo da Cobra Programadora
 
-O projeto consiste em um mini jogo web interativo onde o usuário precisa resolver enigmas, descobrir senhas e interpretar pistas para escapar de um sistema digital controlado por uma inteligência artificial.
+📖 Sobre o Jogo
+Snake Quiz é um jogo educativo feito em Python que mistura a clássica mecânica da cobrinha com perguntas de programação. 
 
-A aplicação contará com:
+ 🎯 Para que ele serve?
+Este jogo foi criado com 3 objetivos principais:
 
-* fases desafiadoras,
-* cronômetro em tempo real,
-* sistema de ranking,
-* dicas inteligentes,
-* efeitos visuais e sonoros.
+1. Revisar conteúdo de programação de forma divertida
+   Em vez de estudar decorando, o jogador aprende respondendo perguntas sobre HTML, CSS e Python enquanto joga. Cada comida `*` que a cobra come gera uma pergunta.
 
-O jogo terá um visual futurista inspirado em temas hacker/cyberpunk, buscando criar uma experiência imersiva e dinâmica.
+2. Praticar lógica de programação  
+   O código usa conceitos fundamentais: funções, listas, dicionários, laços `while`, condicionais `if/else` e input do usuário. Serve como exemplo prático pra quem tá começando.
 
-Além da criatividade e interação, o projeto também destaca:
+3. Treinar raciocínio rápido
+   Com cronômetro de 60 segundos, o jogador precisa pensar rápido: mover a cobra E responder a pergunta antes do tempo acabar.
 
-* organização do código,
-* uso do GitHub,
-* trabalho em equipe,
-* design moderno,
-* lógica de programação.
+🎮 Como funciona
+- Use `W` Cima | `S` Baixo | `A` Esquerda | `D` Direita pra mover a cobra `O`
+- Quando a cobra come a comida `*`, aparece uma pergunta de programação
+- Acertou = +1 ponto | Errou = -1 ponto  
+- Game Over se bater na parede ou se o tempo de 60s acabar
 
-O objetivo é desenvolver uma aplicação funcional, divertida e visualmente marcante para a Feira de Amostras de Aplicações.
+💻 Tecnologias usadas
+- Python 
+- VS Code
+- Bibliotecas: random, time, os
+  
+👥 Feito por:
+Ana Beatriz Gomes da Silva,Ana Beatriz Silva Santos,Ana Beatriz Costa Santos,Bruna Totti Ribeiro e Gustavo Henrique França.

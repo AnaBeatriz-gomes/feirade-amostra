@@ -28,3 +28,6 @@ Este jogo foi criado com 3 objetivos principais:
   
 👥 Feito por:
 Ana Beatriz Gomes da Silva,Ana Beatriz Silva Santos,Ana Beatriz Costa Santos,Bruna Totti Ribeiro e Gustavo Henrique França.
+
+LINK DO JOGO:
+file:///C:/Users/LabInfo/Desktop/feiradeamostra/snake-quiz.html

@@ -1,4 +1,4 @@
-🐍 Snake Quiz - Jogo da Cobra Programadora
+*🐍 Snake Quiz - Jogo da Cobra Programadora*
 
 📖 Sobre o Jogo
 Snake Quiz é um jogo educativo feito em Python que mistura a clássica mecânica da cobrinha com perguntas de programação. 
@@ -31,6 +31,15 @@ Ana Beatriz Gomes da Silva,Ana Beatriz Silva Santos,Ana Beatriz Costa Santos,Bru
 
 LINK DO JOGO:
 file:///C:/Users/LabInfo/Desktop/feiradeamostra/snake-quiz.html
+
+
+
+
+
+
+
+
+
 
 
 CÓDIGO DO JOGO:
